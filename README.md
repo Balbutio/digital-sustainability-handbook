@@ -1,5 +1,5 @@
 # Digital Sustainability Handbook
-This repo seeks to provide useful resources regarding digital sustainability for responsible IT professionals.
+This repo seeks to provide useful and up-to-date resources regarding digital sustainability for responsible IT professionals.
 
 ## ClimateAction.tech (digital sustainability community):
 Join the slack community: <https://climateaction.tech/>
@@ -8,7 +8,7 @@ Branch magazine (twice yearly publication): <https://climateaction.tech/projects
 
 CAT Knowledge base: <https://climateaction.tech/blog/meet-the-cat-knowledge-base-a-resource-that-supports-community-learning-and-action/>
 
-## Green Software Foundation (non-profit foundation):
+## Green Software Foundation (non-profit organisation supporting sustainable practice):
 Free intro training course / Linux Foundation certification: <https://learn.greensoftware.foundation/> / <https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/>
 
 Projects: <https://wiki.greensoftware.foundation/governance/projects>
@@ -16,6 +16,10 @@ Projects: <https://wiki.greensoftware.foundation/governance/projects>
 Meet-ups: https://www.meetup.com/pro/gsf/>
 
 Discussion: <https://github.com/orgs/Green-Software-Foundation/discussions>
+
+## Green Web Foundation (non-profit organisation supporting sustainable hosting):
+
+Tools: <https://www.thegreenwebfoundation.org/tools/>
 
 ## Podcasts (interviews with climate-conscious digital experts):
 Green IO (with Gaël Duez):  <https://podcasts.castplus.fm/greenio>
