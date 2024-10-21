@@ -19,7 +19,6 @@ This repo seeks to provide a useful and up-to-date starting point of resources r
 - [Green hosting providers](https://www.thegreenwebfoundation.org/tools/directory/) - find verified sustainable hosting.
 - [Estimation modelling in digital services](https://www.thegreenwebfoundation.org/tools/#carbon-metrics) - with the [Sustainable Web Design Model methodology](https://sustainablewebdesign.org/estimating-digital-emissions/) and [CO2.js](https://www.thegreenwebfoundation.org/news/curious-about-driving-the-transition-to-a-fossil-free-internet-heres-how-co2-js-can-help/).
 
-
 ## Podcasts (interviews with climate-conscious digital experts)
 - [Green IO](https://podcasts.castplus.fm/greenio) - with Gaël Duez
 - [Environment Variables](https://podcasts.castplus.fm/environment-variables) - with Chris Adams
@@ -34,12 +33,19 @@ This repo seeks to provide a useful and up-to-date starting point of resources r
   - An O'Reilly publication discussing sustainability.
   - Discussion and preview available via GOTO book club on YouTube: [Part 1](https://www.youtube.com/watch?v=Ez8cqoSRVsA), [Part 2](https://www.youtube.com/watch?v=0ISWoTtproY), [Part 3](https://www.youtube.com/watch?v=zdI126LzaZQ), [Part 4](https://www.youtube.com/watch?v=BRFYQstye_U), [Part 5](https://www.youtube.com/watch?v=dzvTlhPXvfE).
 
+- Sustainable Web Design In 20 Lessons (by Michael Andersen)
+  - A publication highlighting many fundamentals including hosting, content delivery, page weight and content.
+
 - [Green Code (by Janne Kalliola)](https://www.exove.com/green-code/)
   - A free digital book about the energy consumption of IT solutions.
 
+## Handbook of Sustainable Digital Services
+- [61 recommendations and 516 criteria for sustainable design](https://gr491.isit-europe.org/en/)
+
 ## Web Sustainability Guidelines (WSG)
 - [Introduction](https://w3c.github.io/sustyweb/intro.html)
-- [Specification](https://w3c.github.io/sustyweb/)
+- [Interactive Spec](https://sustainablewebdesign.org/)
+- [Detailed Specification](https://w3c.github.io/sustyweb/)
 - [Github project](https://github.com/w3c/sustyweb/)
 
 ## Sustainable Product Management
@@ -53,6 +59,6 @@ This repo seeks to provide a useful and up-to-date starting point of resources r
 - [Sustainable Games Alliance](https://sustainablegamesalliance.org/standard/read-the-standard/) - standard for environmental and social responsibility.
 
 ## Misc
+- [Climate Fresk](https://climatefresk.org/world/) - 3 hour fundamentals workshop to understand the climate issues we face.
 - [Should Cloud co$t the Earth?](https://www.youtube.com/watch?v=cqfeEe4z67A) - discussion of emissions in cloud with Mark Butcher.
-
 - [Github's Top 10 (most starred) Green Software tools](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/) - as of Sept 2024.
